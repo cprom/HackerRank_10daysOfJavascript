@@ -1,4 +1,4 @@
-
+.
 function getLetter(s) {
     let letter = "";
     
